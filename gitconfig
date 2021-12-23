@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aiglefeu31@gmail.com
+	name = Clement Peyrat
